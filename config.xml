@@ -37,7 +37,7 @@ xmlns:cdv="http://cordova.apache.org/ns/1.0">
     
     <plugin name="cordova-plugin-admobpro" source="npm" >
         <!--Just need to change value I think-->
-        <!--<variable name="ADMOB_APP_ID" value="ca-app-pub-3940256099942544~3347511713" />-->
+        <variable name="ADMOB_APP_ID" value="ca-app-pub-3940256099942544~3347511713" />
     </plugin>
     
           
